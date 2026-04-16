@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Logistics Officer (India)",
+    "sector": "Government",
+    "domain": "Logistics",
+    "description": "Plan movement of supplies, manage inventory records, coordinate transport, supervise teams, and support disciplined logistics operations for Indian government departments and public service units.",
+    "link": "https://www.ncs.gov.in/",
+    "location": "Delhi",
+    "salary": "6-10 LPA",
+    "level": "Officer"
+  },
+  {
+    "id": 2,
+    "title": "Training Manager (India)",
+    "sector": "Government",
+    "domain": "HR",
+    "description": "Design training programs, conduct classroom and field instruction, evaluate performance, mentor staff, and use communication and leadership skills for Indian public sector training centres.",
+    "link": "https://employmentnews.gov.in/newemp/AllJobs.aspx?k=All",
+    "location": "Delhi",
+    "salary": "7-12 LPA",
+    "level": "Officer"
+  },
+  {
+    "id": 3,
+    "title": "Security Officer (India)",
+    "sector": "Government",
+    "domain": "Security",
+    "description": "Manage surveillance, access control, risk management, emergency response, guard supervision, incident reporting, and secure facility operations for Indian government and defence-linked sites.",
+    "link": "https://www.drdo.gov.in/careers",
+    "location": "Chennai",
+    "salary": "5-9 LPA",
+    "level": "Mid"
+  },
+  {
+    "id": 4,
+    "title": "Technical Coordinator (India)",
+    "sector": "Government",
+    "domain": "IT",
+    "description": "Coordinate technical support, equipment tracking, troubleshooting, basic networking, systems documentation, vendor follow-up, and operational reporting for Indian PSU and government technology teams.",
+    "link": "https://www.psuconnect.in/jobs/",
+    "location": "Bangalore",
+    "salary": "6-11 LPA",
+    "level": "Mid"
+  },
+  {
+    "id": 5,
+    "title": "Physical Training Instructor (India)",
+    "sector": "Government",
+    "domain": "Coaching",
+    "description": "Conduct physical training, fitness assessment, discipline building, coaching, motivation, safety supervision, and structured drills for police, defence preparation, and public training institutes in India.",
+    "link": "https://services.india.gov.in/service/listing?cat_id=2&ln=en",
+    "location": "Mumbai",
+    "salary": "4-7 LPA",
+    "level": "Entry"
+  },
+  {
+    "id": 6,
+    "title": "HR Executive (India)",
+    "sector": "Private",
+    "domain": "HR",
+    "description": "Support recruitment, onboarding, employee management, training coordination, attendance records, performance evaluation, communication, and workplace discipline for Indian corporate teams.",
+    "link": "https://www.naukri.com/hr-executive-jobs",
+    "location": "Mumbai",
+    "salary": "4-7 LPA",
+    "level": "Entry"
+  },
+  {
+    "id": 7,
+    "title": "Learning & Development Associate (India)",
+    "sector": "Private",
+    "domain": "HR",
+    "description": "Create learning plans, deliver training sessions, track employee performance, support communication workshops, manage training reports, and mentor teams in Indian companies.",
+    "link": "https://www.naukri.com/learning-and-development-jobs",
+    "location": "Bangalore",
+    "salary": "5-9 LPA",
+    "level": "Mid"
+  },
+  {
+    "id": 8,
+    "title": "Facility Manager (India)",
+    "sector": "Private",
+    "domain": "Security",
+    "description": "Manage facility operations, vendor coordination, safety compliance, access control, housekeeping, risk management, emergency planning, and disciplined site administration for Indian corporate facilities.",
+    "link": "https://www.naukri.com/facility-manager-jobs",
+    "location": "Delhi",
+    "salary": "6-10 LPA",
+    "level": "Mid"
+  },
+  {
+    "id": 9,
+    "title": "IT Support Executive (India)",
+    "sector": "Private",
+    "domain": "IT",
+    "description": "Provide technical support, troubleshooting, hardware and software assistance, networking basics, ticket handling, system maintenance, documentation, and user support for Indian office environments.",
+    "link": "https://www.naukri.com/it-support-jobs",
+    "location": "Bangalore",
+    "salary": "4-8 LPA",
+    "level": "Entry"
+  },
+  {
+    "id": 10,
+    "title": "Sales Executive (India)",
+    "sector": "Private",
+    "domain": "Sales",
+    "description": "Handle client communication, field sales, target tracking, negotiation, reporting, discipline, relationship management, and operational coordination for Indian service and product companies.",
+    "link": "https://www.naukri.com/sales-executive-jobs",
+    "location": "Mumbai",
+    "salary": "4-8 LPA",
+    "level": "Entry"
+  },
+  {
+    "id": 11,
+    "title": "Operations Executive (India)",
+    "sector": "Private",
+    "domain": "Operations",
+    "description": "Coordinate daily operations, team communication, process tracking, documentation, vendor follow-up, issue resolution, reporting, and disciplined execution for Indian business operations teams.",
+    "link": "https://www.naukri.com/operations-executive-jobs",
+    "location": "Chennai",
+    "salary": "5-9 LPA",
+    "level": "Mid"
+  },
+  {
+    "id": 12,
+    "title": "Fitness Coach (India)",
+    "sector": "Private",
+    "domain": "Coaching",
+    "description": "Guide fitness programs, conduct physical assessments, coach discipline and motivation, manage group sessions, ensure safety, and support wellness goals for Indian gyms and training academies.",
+    "link": "https://www.naukri.com/fitness-trainer-jobs",
+    "location": "Delhi",
+    "salary": "3-6 LPA",
+    "level": "Entry"
+  }
+]
