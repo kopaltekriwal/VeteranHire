@@ -1,1 +1,0 @@
-"""VeteranHire backend package."""
